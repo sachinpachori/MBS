@@ -1,3 +1,2 @@
 Functionality to add the booked meetings in the database is pending.
-Existing functionality may be extended to save the booked meetings in the database. Before confirming booking of a meeting, 
-a check can be made from the database to see if the desired slot is available.
+Existing functionality may be extended to save the booked meetings in the database. Before confirming booking of a meeting, a check can be made from the database to see if the desired slot is available.
